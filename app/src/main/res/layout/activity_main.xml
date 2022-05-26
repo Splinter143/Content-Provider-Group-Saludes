@@ -13,8 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
-        android:text="add_country"
-        android:background="#FFE4DF"/>
+        android:background="#FFE4DF"
+        android:text="ADD NEW TASK" />
 
     <ListView
         android:id="@+id/countryList"
